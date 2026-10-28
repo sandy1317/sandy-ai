@@ -9,7 +9,7 @@
 | 渠道 | 地址 | 说明 |
 |---|---|---|
 | GitHub | [Releases 最新版](https://github.com/sandy1317/sandy-ai/releases/latest) | 下载附件里的 `DSH-lazy-版本号.zip`（约 520MB） |
-| 网盘（备用） | 新版本发布时补上 | GitHub 下载慢或断的时候用这个 |
+| 百度网盘（备用） | [DSH懒人版-1.5.7.zip](https://pan.baidu.com/s/1MlRtGMBtm6vxAAEDHeIiBA?pwd=SAND)，提取码 `SAND` | GitHub 下载慢或断的时候用这个 |
 
 两个渠道是同一个文件，每个版本的 SHA256 写在对应 Release 的说明里。
 
